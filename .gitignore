@@ -1,0 +1,7 @@
+node_modules
+bin
+.idea
+obj
+pgdata
+alexsolution
+dist
